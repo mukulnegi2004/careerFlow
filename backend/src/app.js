@@ -38,6 +38,12 @@ app.get('/', (req, res) => {
     res.send('Hello, World!');
 });
 
+app.get("/health", (req, res) => {
+    res.status(200).json({
+        success: true,
+        message: "Server is healthy"
+    });
+});
 
 
 app.use("/api/auth", authRoutes);
