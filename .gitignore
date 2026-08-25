@@ -1,11 +1,12 @@
+# Frontend
 frontend/node_modules/
 frontend/.env
 frontend/dist/
 
-
+# Backend
 backend/node_modules/
 backend/.env
 
-
-APIs.md/
-states.md/
+# Docs (contain API tokens / sensitive notes)
+APIs.md
+states.md
