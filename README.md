@@ -14,6 +14,9 @@ A full-stack **LinkedIn-inspired** social platform built with the **MERN stack**
 [![Groq AI](https://img.shields.io/badge/Groq-AI%20Powered-F55036?style=flat-square)](https://groq.com/)
 [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](#-license)
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://careerflow-ten-xi.vercel.app/)
+
+**[🚀 Live Demo](https://careerflow-ten-xi.vercel.app/)**
 
 </div>
 
@@ -365,13 +368,31 @@ git push origin feature/your-feature
 
 ---
 
+## 🌐 Live Demo
+
+🚀 Try the application here: **[careerflow-ten-xi.vercel.app](https://careerflow-ten-xi.vercel.app/)**
+
+---
+
 ## 📄 License
 
 This project is licensed under the **MIT License**.
 
 ---
 
+## 📬 Connect with Me
+
+<p>
+<a href="https://github.com/mukulnegi2004"><img src="https://img.shields.io/badge/GitHub-mukulnegi2004-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mukul-negi-431039378/"><img src="https://img.shields.io/badge/LinkedIn-Mukul%20Negi-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mannunegi126@gmail.com"><img src="https://img.shields.io/badge/Email-mannunegi126%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
 <div align="center">
+
+### ⭐ If you like this project, give it a star — it helps a lot!
 
 Made with ❤️ by [Mukul Negi](https://github.com/mukulnegi2004)
 
