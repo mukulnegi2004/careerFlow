@@ -374,12 +374,6 @@ git push origin feature/your-feature
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
----
-
 ## 📬 Connect with Me
 
 <p>
