@@ -16,7 +16,8 @@ A full-stack **LinkedIn-inspired** social platform built with the **MERN stack**
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](#-license)
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://careerflow-ten-xi.vercel.app/)
 
-**[🚀 Live Demo](https://careerflow-ten-xi.vercel.app/)**
+**[🚀 Live Demo](https://careerflow-ten-xi.vercel.app/
+)**
 
 </div>
 
