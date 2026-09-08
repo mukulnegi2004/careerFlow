@@ -1,0 +1,12 @@
+# Frontend
+frontend/node_modules/
+frontend/.env
+frontend/dist/
+
+# Backend
+backend/node_modules/
+backend/.env
+
+# Docs (contain API tokens / sensitive notes)
+states.md
+work.md
